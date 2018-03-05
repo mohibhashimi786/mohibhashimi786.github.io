@@ -1,10 +1,10 @@
 # Site settings
-title: Training Wheels are OFF!
+title: Mohib Hashimi's Blog
 header-img: img/home-bg.png
 email: mohib.hashimi@gmail.com
 copyright_name: mohibhashimi786
 description: > # this means to ignore newlines until "baseurl:"
-  First Project in the curriculum, CLI DATA GEM
+  MyBlog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mohibhashimi786
